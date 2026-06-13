@@ -27,4 +27,4 @@ Each pet folder includes QA artifacts:
 - `qa/validation.json`
 - `qa/review.json`
 
-Some pets also include `cursor-pack/`, a Windows `.cur/.ani` cursor adaptation built from the same pet animation frames.
+Some pets also include `cursor-pack/`, a Windows cursor adaptation built from the same pet. Use `cursor-pack/ani/*.ani` for animated pointers; `cursor-pack/cur/*.cur` is included as a static fallback.

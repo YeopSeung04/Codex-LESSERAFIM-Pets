@@ -38,26 +38,32 @@ The generated atlas was checked with the hatch-pet deterministic pipeline:
 
 The `cursor-pack` folder contains:
 
-- `cur/*.cur`: static Windows cursor files
-- `ani/*.ani`: animated Windows cursor files
+- `ani/*.ani`: animated Windows cursor files for all common Windows pointer roles
+- `cur/*.cur`: static fallback Windows cursor files
 - `png/*.png`: transparent PNG source previews
 - `preview/cursor-sheet.png`: reference sheet
 - `preview/*.gif`: animated cursor previews
+- `source/mascot-base.png`: high-resolution mascot source used by the cursor generator
 
-Suggested Windows mapping:
+Suggested Windows mapping using animated cursors:
 
-- Normal Select: `cursor-pack/cur/normal.cur`
-- Help Select: `cursor-pack/cur/help.cur`
+- Normal Select: `cursor-pack/ani/normal.ani`
+- Help Select: `cursor-pack/ani/help.ani`
 - Working In Background: `cursor-pack/ani/working.ani`
 - Busy: `cursor-pack/ani/busy.ani`
-- Text Select: `cursor-pack/cur/text.cur`
-- Link Select: `cursor-pack/cur/link.cur`
-- Unavailable: `cursor-pack/cur/unavailable.cur`
-- Move: `cursor-pack/cur/move.cur`
-- Horizontal Resize: `cursor-pack/cur/ew-resize.cur`
-- Vertical Resize: `cursor-pack/cur/ns-resize.cur`
-- Diagonal Resize 1: `cursor-pack/cur/nwse-resize.cur`
-- Diagonal Resize 2: `cursor-pack/cur/nesw-resize.cur`
+- Precision Select: `cursor-pack/ani/precision.ani`
+- Text Select: `cursor-pack/ani/text.ani`
+- Handwriting: `cursor-pack/ani/handwriting.ani`
+- Unavailable: `cursor-pack/ani/unavailable.ani`
+- Vertical Resize: `cursor-pack/ani/ns-resize.ani`
+- Horizontal Resize: `cursor-pack/ani/ew-resize.ani`
+- Diagonal Resize 1: `cursor-pack/ani/nwse-resize.ani`
+- Diagonal Resize 2: `cursor-pack/ani/nesw-resize.ani`
+- Move: `cursor-pack/ani/move.ani`
+- Alternate Select: `cursor-pack/ani/alternate.ani`
+- Link Select: `cursor-pack/ani/link.ani`
+- Location Select: `cursor-pack/ani/location.ani`
+- Person Select: `cursor-pack/ani/person.ani`
 
 On Windows, open `Settings > Bluetooth & devices > Mouse > Additional mouse settings > Pointers`, then browse to these files for each pointer role.
 
@@ -66,5 +72,6 @@ Regenerate the cursor pack:
 ```bash
 python tools/build_cursor_pack.py \
   --pet-dir LESSERAFIM/CHAEWON \
-  --out-dir LESSERAFIM/CHAEWON/cursor-pack
+  --out-dir LESSERAFIM/CHAEWON/cursor-pack \
+  --source-image LESSERAFIM/CHAEWON/cursor-pack/source/mascot-base.png
 ```
