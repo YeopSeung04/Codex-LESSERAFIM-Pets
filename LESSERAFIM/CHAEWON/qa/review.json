@@ -1,0 +1,962 @@
+{
+  "ok": true,
+  "frames_root": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames",
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17460,
+          "bbox": [
+            32,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 195
+        },
+        {
+          "index": 1,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17402,
+          "bbox": [
+            33,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 199
+        },
+        {
+          "index": 2,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17467,
+          "bbox": [
+            23,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 165
+        },
+        {
+          "index": 3,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17461,
+          "bbox": [
+            33,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 171
+        },
+        {
+          "index": 4,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17465,
+          "bbox": [
+            32,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 188
+        },
+        {
+          "index": 5,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17422,
+          "bbox": [
+            31,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 188
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15639,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 253
+        },
+        {
+          "index": 1,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15435,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 239
+        },
+        {
+          "index": 2,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17764,
+          "bbox": [
+            19,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 367
+        },
+        {
+          "index": 3,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15052,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 248
+        },
+        {
+          "index": 4,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14646,
+          "bbox": [
+            29,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 255
+        },
+        {
+          "index": 5,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15946,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 285
+        },
+        {
+          "index": 6,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16657,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 308
+        },
+        {
+          "index": 7,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15557,
+          "bbox": [
+            29,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 272
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15639,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 253
+        },
+        {
+          "index": 1,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15445,
+          "bbox": [
+            25,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 237
+        },
+        {
+          "index": 2,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17387,
+          "bbox": [
+            23,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 343
+        },
+        {
+          "index": 3,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14786,
+          "bbox": [
+            29,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 238
+        },
+        {
+          "index": 4,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15003,
+          "bbox": [
+            24,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 270
+        },
+        {
+          "index": 5,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16300,
+          "bbox": [
+            19,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 297
+        },
+        {
+          "index": 6,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16657,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 308
+        },
+        {
+          "index": 7,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15557,
+          "bbox": [
+            29,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 272
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18641,
+          "bbox": [
+            33,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 148
+        },
+        {
+          "index": 1,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18207,
+          "bbox": [
+            34,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 133
+        },
+        {
+          "index": 2,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18824,
+          "bbox": [
+            28,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 139
+        },
+        {
+          "index": 3,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18419,
+          "bbox": [
+            34,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 148
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21194,
+          "bbox": [
+            9,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 318
+        },
+        {
+          "index": 1,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17665,
+          "bbox": [
+            8,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 178
+        },
+        {
+          "index": 2,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17996,
+          "bbox": [
+            5,
+            10,
+            187,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 203
+        },
+        {
+          "index": 3,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18189,
+          "bbox": [
+            6,
+            5,
+            186,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 214
+        },
+        {
+          "index": 4,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21714,
+          "bbox": [
+            6,
+            5,
+            185,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 284
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14785,
+          "bbox": [
+            45,
+            5,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 200
+        },
+        {
+          "index": 1,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15182,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 171
+        },
+        {
+          "index": 2,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15736,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 209
+        },
+        {
+          "index": 3,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20771,
+          "bbox": [
+            22,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 244
+        },
+        {
+          "index": 4,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20597,
+          "bbox": [
+            26,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 222
+        },
+        {
+          "index": 5,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19358,
+          "bbox": [
+            28,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 223
+        },
+        {
+          "index": 6,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15265,
+          "bbox": [
+            42,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 156
+        },
+        {
+          "index": 7,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15089,
+          "bbox": [
+            44,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 174
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14005,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 119
+        },
+        {
+          "index": 1,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14166,
+          "bbox": [
+            43,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 121
+        },
+        {
+          "index": 2,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14055,
+          "bbox": [
+            43,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 106
+        },
+        {
+          "index": 3,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14030,
+          "bbox": [
+            42,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 106
+        },
+        {
+          "index": 4,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13792,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 128
+        },
+        {
+          "index": 5,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14136,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 126
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14891,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 160
+        },
+        {
+          "index": 1,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14849,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 141
+        },
+        {
+          "index": 2,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15481,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 137
+        },
+        {
+          "index": 3,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14932,
+          "bbox": [
+            36,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 156
+        },
+        {
+          "index": 4,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15212,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 122
+        },
+        {
+          "index": 5,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14748,
+          "bbox": [
+            36,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 140
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14862,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 125
+        },
+        {
+          "index": 1,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15350,
+          "bbox": [
+            37,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 144
+        },
+        {
+          "index": 2,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15353,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 142
+        },
+        {
+          "index": 3,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14645,
+          "bbox": [
+            38,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 136
+        },
+        {
+          "index": 4,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15937,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 137
+        },
+        {
+          "index": 5,
+          "file": "/Users/han-seung-yeop/Documents/New project 3/hatch-runs/loopi/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14893,
+          "bbox": [
+            37,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 140
+        }
+      ]
+    }
+  ]
+}
